@@ -18,8 +18,3 @@ This project simulates an anti-drone defense system using Python. The system tra
 - matplotlib
 - IPython (for animations in Google Colab)
 
-## How to Run
-### Running Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/anti-drone-defense-simulation.git
